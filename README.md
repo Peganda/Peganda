@@ -33,7 +33,7 @@ Sou estudante de **Ciência da Computação** na **Escola de Engenharia de Pirac
 
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Bortolassi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedro-bortolassi-691849327/)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Pedro_Bortolassi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedro-bortolassi-691849327/)  
 📧 [pedroborto12@gmail.com](mailto:pedroborto12@gmail.com)  
 📞 (11) 99789-1324
 
