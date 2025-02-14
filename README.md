@@ -30,7 +30,7 @@ Sou estudante de **Ciência da Computação** na **Escola de Engenharia de Pirac
 ### 📂 Projetos
 🔹 [Projeto 1](#) - Descrição breve do projeto
 🔹 [Projeto 2](#) - Descrição breve do projeto
-🔹 [Projeto 3](#) - Descrição breve do projeto
+
 
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Bortolassi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedro-bortolassi-691849327/)  
