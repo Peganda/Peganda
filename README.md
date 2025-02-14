@@ -48,6 +48,4 @@ Sou estudante de **Ciência da Computação** na **Escola de Engenharia de Pirac
 📧 [pedroborto12@gmail.com](mailto:pedroborto12@gmail.com)  
 📞 (11) 99789-1324
 
----
 
-⭐ **Vamos construir algo incrível juntos!** 🚀
